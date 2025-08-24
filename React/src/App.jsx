@@ -1,10 +1,13 @@
-
+import Chai from "./Chai"
 
 function App() {
  
 
   return (
-   <h1>chai aur code with vite || Shreshtha</h1>
+  <div> 
+  <h1>chai aur code with vite || Shreshtha</h1>
+  <Chai/>
+  </div>
   )
 }
 
